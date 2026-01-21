@@ -12,6 +12,6 @@ pom.properties
 
 *.txt
 
-*.xml
+TEST-com.example.StudentAnalyzerTest.xml
 
 node_modules
