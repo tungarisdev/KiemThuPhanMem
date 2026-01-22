@@ -15,3 +15,7 @@ pom.properties
 TEST-com.example.StudentAnalyzerTest.xml
 
 node_modules
+
+apache-jmeter-5.6.3
+
+*.zip
