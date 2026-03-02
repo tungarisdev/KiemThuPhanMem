@@ -43,4 +43,4 @@ Apache JMeter
 - Throughput
 - Error Rate
 
-Chi tiết xem trong thư mục results/
+Chi tiết xem [tại đây](https://github.com/tungarisdev/KiemThuPhanMem/tree/main/22_01/jmeter/results)
